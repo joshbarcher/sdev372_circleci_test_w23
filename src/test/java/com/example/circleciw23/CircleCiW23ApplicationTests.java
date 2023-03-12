@@ -18,4 +18,10 @@ class CircleCiW23ApplicationTests
     {
         //fail();
     }
+
+    @Test
+    public void anotherTest()
+    {
+
+    }
 }
